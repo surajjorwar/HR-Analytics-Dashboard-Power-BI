@@ -1,4 +1,5 @@
-[HR ANALYTICS.pdf](https://github.com/surajjorwar/HR-Analytics-Dashbord-Power-BI/files/12208585/HR.ANALYTICS.pdf)
+[HR ANALYTICS.pdf](https://github.com/surajjorwar/HR-Analytics-Dashbord-Power-BI/files/12208591/HR.ANALYTICS.pdf)
+
 # HR-Analytics-Dashbord-Power-BI
 The HR Analytics Power BI Dashboard is a data visualization project that provides in-depth insights and analysis for Human Resources (HR) data. It aims to assist HR professionals and management in making informed decisions based on key HR metrics and trends.
 
